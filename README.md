@@ -1,1 +1,1 @@
-# Plagit
+# Boilerplate react-app with scss
