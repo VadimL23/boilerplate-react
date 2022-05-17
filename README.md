@@ -1,2 +1,1 @@
-# boilerplate-react
-react with scss
+# Plagit
